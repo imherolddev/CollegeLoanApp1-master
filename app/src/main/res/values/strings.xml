@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">College Loan App1</string>
+    <string name="action_settings">Settings</string>
+    <string name="loanAMount">Amount</string>
+</resources>
